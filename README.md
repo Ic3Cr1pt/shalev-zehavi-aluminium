@@ -2,7 +2,7 @@
 
 אתר תדמית בעברית לשליו זהבי מנתניה. האתר מציג את תחומי העבודה, צילום מהשטח, שעות פעילות ודרכי פנייה בטלפון ובוואטסאפ.
 
-[סרטון הדגמה במחשב ובטלפון](demo/walkthrough.mp4) · 38 שניות · Full HD
+[פתיחת האתר](https://ic3cr1pt.github.io/shalev-zehavi-aluminium/) · [סרטון הדגמה במחשב ובטלפון](https://ic3cr1pt.github.io/shalev-zehavi-aluminium/demo/walkthrough.mp4) · 38 שניות · Full HD
 
 ## תצוגה מקומית
 
